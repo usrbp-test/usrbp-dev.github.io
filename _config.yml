@@ -2,5 +2,5 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme
 
-title: USRBP Engineering Homepage
+title: USRBP Engineering
 description: Location for USRBP Engineering groups documentation
