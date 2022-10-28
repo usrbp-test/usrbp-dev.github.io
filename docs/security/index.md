@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Security Index
+title: Security
+nav_order: 2
 ---
 
 Security standards

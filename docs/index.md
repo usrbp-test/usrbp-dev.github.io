@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Root Index
+title: Home
+nav_order: 0
 ---
 
 Index for the root of the docs folder
